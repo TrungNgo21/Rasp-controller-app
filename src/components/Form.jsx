@@ -5,7 +5,7 @@ import { useState } from "react";
 function Form() {
   const [isOn, setIsOn] = useState(false);
   return (
-    <div className="flex-col flex items-center justify-center">
+    <div className="flex-col flex items-center justify-evenly h-screen">
       <Card status={isOn} title={isOn ? "Active" : "Off"}/>
       <Power isOn={isOn} setIsOn={setIsOn}/>
     </div>
