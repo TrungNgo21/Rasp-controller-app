@@ -15,7 +15,7 @@ function Power({ isOn, setIsOn }) {
         isOn
           ? "bg-gradient-to-r from-green-400 to-blue-500"
           : "bg-gradient-to-l from-orange-400 to-red-500"
-      }`}
+      } my-5 mx-8`}
     >
       <button
         onClick={() => {
