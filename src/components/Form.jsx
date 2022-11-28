@@ -12,7 +12,7 @@ function Form() {
       <Card status={isOn} title={isOn ? "Active" : "Off"} />
       <Card status={isOn} title={isOn ? "Active" : "Off"} />
 
-      <div className="card bg-white flex-row w-3/4 justify-center">
+      <div className="card bg-white flex-col sm:flex-row w-3/4 justify-center flex-wrap">
         <Power isOn={isOn} setIsOn={setIsOn} />
         <Power isOn={isOn} setIsOn={setIsOn} />
         <Power isOn={isOn} setIsOn={setIsOn} />
