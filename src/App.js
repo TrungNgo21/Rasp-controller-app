@@ -8,7 +8,7 @@ function App() {
       <Navbar />
       <main className=" bg-slate-200 card rounded-none">
         <div className="card rounded-none">
-          <div className=" h-[400px] bg-slate-700 relative">
+          <div className="h-[300px] md:h-[400px] xl:h-[500px] bg-slate-700 relative">
             <img
               src={Bakery}
               className="mix-blend-overlay absolute object-cover w-full h-full"
