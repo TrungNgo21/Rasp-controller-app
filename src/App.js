@@ -16,7 +16,7 @@ function App() {
           </div>
           <div className="card-body absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 tracking-[5px] border-2 border-[#ccc] rounded-lg bg-[rgba(0,0,0,0.6)]">
             <h2 className="card-title text-2xl sm:text-3xl md:text-4xl xl:text-6xl text-neutral-content ">
-              SmartBakery's
+              Smart Bakery
             </h2>
             <p className="text-lg text-neutral-content">
             </p>
