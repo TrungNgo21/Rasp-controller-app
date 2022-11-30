@@ -10,22 +10,22 @@ const data = [
   },
   {
     title: "Temperature",
-    value: `45°C`,
+    value: `54°C`,
     icon: FaTemperatureLow,
   },
   {
     title: "Humidity",
-    value: `60%`,
+    value: `90%`,
     icon: IoWaterSharp,
   },
   {
     title: "Temperature",
-    value: `35°C`,
+    value: `26°C`,
     icon: FaTemperatureLow,
   },
   {
     title: "Humidity",
-    value: `65%`,
+    value: `71%`,
     icon: IoWaterSharp,
   },
   {
@@ -35,7 +35,7 @@ const data = [
   },
   {
     title: "Humidity",
-    value: `61%`,
+    value: `69%`,
     icon: IoWaterSharp,
   },
   {
@@ -45,7 +45,7 @@ const data = [
   },
   {
     title: "Temperature",
-    value: `55°C`,
+    value: `37°C`,
     icon: FaTemperatureLow,
   },
 ];
